@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Laboratory_1.dir/main.cpp.o CMakeFiles/Laboratory_1.dir/Manager.cpp.o CMakeFiles/Laboratory_1.dir/Process.cpp.o -o Laboratory_1 
