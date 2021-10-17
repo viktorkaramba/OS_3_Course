@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/viktorkaramba/CLionProjects/OS_3_Course/Laboratory 1/Manager.cpp
+Manager.h
+/home/viktorkaramba/CLionProjects/OS_3_Course/Laboratory 1/Manager.h
+
+/home/viktorkaramba/CLionProjects/OS_3_Course/Laboratory 1/Manager.h
+iostream
+-
+string
+-
+unistd.h
+-
+sys/wait.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+Process.h
+/home/viktorkaramba/CLionProjects/OS_3_Course/Laboratory 1/Process.h
+
+/home/viktorkaramba/CLionProjects/OS_3_Course/Laboratory 1/Process.h
+cstdlib
+-
+unistd.h
+-
+cstdio
+-
+signal.h
+-
+string
+-
+
