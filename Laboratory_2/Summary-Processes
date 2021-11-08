@@ -1,0 +1,66 @@
+Process: 0 (0, 0)  added to ready queue
+Process: 0 (300, 300) added to gant chart
+Process: 3 (0, 0)  added to ready queue
+Process: 3 (600, 300) added to gant chart
+Process: 4 (0, 0)  added to ready queue
+Process: 0 (800, 500)  I/O blocked
+Process: 0 (800, 500) added to gant chart
+Process: 4 (1100, 300) added to gant chart
+Process: 1 (0, 0)  added to ready queue
+Process: 3 (1300, 500)  I/O blocked
+Process: 3 (1300, 500) added to gant chart
+Process: 2 (0, 0)  added to ready queue
+Process: 0 (1600, 800) added to gant chart
+Process: 1 (1900, 300) added to gant chart
+Process: 4 (2100, 500)  I/O blocked
+Process: 4 (2100, 500) added to gant chart
+Process: 2 (2400, 300) added to gant chart
+Process: 3 (2700, 800) added to gant chart
+Process: 0 (2900, 1000)  I/O blocked
+Process: 0 (2900, 1000) added to gant chart
+Process: 1 (3100, 500)  I/O blocked
+Process: 1 (3100, 500) added to gant chart
+Process: 4 (3400, 800) added to gant chart
+Process: 2 (3600, 500)  I/O blocked
+Process: 2 (3600, 500) added to gant chart
+Process: 3 (3800, 1000)  I/O blocked
+Process: 3 (3800, 1000) added to gant chart
+Process: 0 (4100, 1300) added to gant chart
+Process: 1 (4400, 800) added to gant chart
+Process: 4 (4600, 1000)  I/O blocked
+Process: 4 (4600, 1000) added to gant chart
+Process: 2 (4900, 800) added to gant chart
+Process: 3 (5200, 1300) added to gant chart
+Process: 0 (5400, 1500)  I/O blocked
+Process: 0 (5400, 1500) added to gant chart
+Process: 1 (5600, 1000)  I/O blocked
+Process: 1 (5600, 1000) added to gant chart
+Process: 4 (5900, 1300) added to gant chart
+Process: 2 (6100, 1000)  I/O blocked
+Process: 2 (6100, 1000) added to gant chart
+Process: 3 (6300, 1500)  I/O blocked
+Process: 3 (6300, 1500) added to gant chart
+Process: 0 (6600, 1800) added to gant chart
+Process: 1 (6900, 1300) added to gant chart
+Process: 4 (7100, 1500)  I/O blocked
+Process: 4 (7100, 1500) added to gant chart
+Process: 2 (7400, 1300) added to gant chart
+Process: 3 (7700, 1800) added to gant chart
+Process: 0 (7900, 2000)  added to gant chart
+Process: 0 (7900, 2000)  completed
+Process: 1 (8100, 1500)  I/O blocked
+Process: 1 (8100, 1500) added to gant chart
+Process: 4 (8400, 1800) added to gant chart
+Process: 2 (8600, 1500)  I/O blocked
+Process: 2 (8600, 1500) added to gant chart
+Process: 3 (8800, 2000)  added to gant chart
+Process: 3 (8800, 2000)  completed
+Process: 1 (9100, 1800) added to gant chart
+Process: 4 (9300, 2000)  added to gant chart
+Process: 4 (9300, 2000)  completed
+Process: 2 (9600, 1800) added to gant chart
+Process: 1 (9800, 2000)  added to gant chart
+Process: 1 (9800, 2000)  completed
+Process: 2 (10000, 2000)  added to gant chart
+Process: 2 (10000, 2000)  completed
+Gant chart: P0 P3 P0 P4 P3 P0 P1 P4 P2 P3 P0 P1 P4 P2 P3 P0 P1 P4 P2 P3 P0 P1 P4 P2 P3 P0 P1 P4 P2 P3 P0 P1 P4 P2 P3 P1 P4 P2 P1 P2 
